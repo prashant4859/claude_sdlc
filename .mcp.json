@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "atlassian": {
+      "type": "http",
+      "url": "https://mcp.atlassian.com/v2/mcp"
+    },
+    "my-mcp-server-2ebebf11": {
+      "url": "https://prashantchauhan4859.atlassian.net/",
+      "type": "http"
+    }
+  }
+}
